@@ -1,0 +1,10 @@
+c:\Users\adilio.santos\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+c:\Users\adilio.santos\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+c:\Users\adilio.santos\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+c:\Users\adilio.santos\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+c:\Users\adilio.santos\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+c:\Users\adilio.santos\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+c:\Users\adilio.santos\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+c:\Users\adilio.santos\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+c:\Users\adilio.santos\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+c:\Users\adilio.santos\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
